@@ -18,10 +18,13 @@ body {
      text-decoration: none;
  }
  .container {
-     width: 100%;
+     width: 90%;
      height: auto;
      margin: 20px;
      display: inline-block;
+     background-color: #eeeeff;
+     border-radius: 24px;
+     padding: 64px;
  }
  .Project01 {
      width: 50%;
@@ -31,4 +34,13 @@ body {
     padding: 10px;
     border-left: 1px solid rgba(137, 130, 247, .2)
 
+}
+
+.Block1 {
+   background-color: #5451E1;
+}
+
+.MainImgs {
+    max-width: 100%;
+    height: auto;
 }
