@@ -17,3 +17,18 @@ body {
      border-radius: 64px;
      text-decoration: none;
  }
+ .container {
+     width: 100%;
+     height: auto;
+     margin: 20px;
+     display: inline-block;
+ }
+ .Project01 {
+     width: 50%;
+     float: right;
+ }
+.exp {
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2)
+
+}
