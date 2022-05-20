@@ -1,10 +1,11 @@
 
-.Purple-color {color: #5451E1;}
+
 body {
     font-family: sans-serif;
     color: #373F41;
     line-height: 26px;
 }
+.Purple-color {color: #5451E1;}
 .content{
     width: 50%;
     float: left;
@@ -12,6 +13,7 @@ body {
  .btn{
      color: white;
      background-color: #5451E1;
-     padding: 13px 42px;
-     border-radius: 20px;
+     padding: 8px 24px;
+     border-radius: 64px;
+     text-decoration: none;
  }
